@@ -1,0 +1,19 @@
+{
+  "name": "Lobot #1",
+  "symbol": "",
+  "description": "Common Peasant",
+  "image": "1.png",
+  "collection": {
+    "name": "LOBOT"
+  },
+  "properties": {
+    "files": [{
+      "uri": "0.png",
+      "type": "image/png"
+    }],
+    "creators": [{
+      "address": "7YxBwBNk54sM6BVQofG4ULCwfjBhMwyfLUB3Z3nvkqHe",
+      "share": 100
+    }]
+  }
+}
